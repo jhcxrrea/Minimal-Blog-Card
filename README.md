@@ -1,4 +1,4 @@
-![Minimal Blog Card](caminho/para/a/imagem.jpg)
+![Minimal Blog Card](/print.png)
 
 # Minimal Blog Card
 
