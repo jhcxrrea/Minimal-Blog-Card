@@ -1,4 +1,3 @@
-![Minimal Blog Card](img/print.png)
 
 # Minimal Blog Card
 
